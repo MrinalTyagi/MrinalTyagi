@@ -26,12 +26,19 @@
 
 <hr>
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/discussion)
+
+<hr>
+
 <h3 align="left">Github Stats:</h3>
 <br>
 
 <div align="left" height="300px">
   <span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinaltyagi&show_icons=true&theme=dark&locale=en" alt="mrinaltyagi" width="60%" height="100%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinaltyagi&show_icons=true&theme=dark&locale=en" alt="mrinaltyagi" width="60%" height="80%"/>
   </span>
 </div>
 
