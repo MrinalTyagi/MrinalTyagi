@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/21031150/194780376-dd47eb83-93be-4798-8007-cb7307ee5693.gif" width="300"/>
   <h2 align="center">Hi 👋, I'm Mrinal Tyagi</h2>
   <div id="badges" align="center">
     <a href="https://linkedin.com/in/mrinal-tyagi-02a1351b1">
@@ -14,7 +14,6 @@
     </a>
   </div>
 </div>
-
 
 <div>
   <h3 align="left">iOS Developer and a Machine Learning enthusiast</h3>
