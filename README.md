@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mrinaltyagi24@gmail.com**
 
-- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1B5vpyDfWL3m9ZBofBcLB2-sMYMAcQhDb/view?usp=sharing)
+- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1qFQL7pxKCoFvF-wgv4mazjzrIuEGQotA/view?usp=sharing)
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
