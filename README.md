@@ -33,15 +33,6 @@
 
 <br>
 
-<div align="center">
-  <h3>Kaggle Stats</h3>
-  <p align="center">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/competition/light" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/dataset/light" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/notebook/light" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/tr1gg3rtrash/discussion/light" />
-  </p>
-</div>
 
 <div align="center">
   <h3>Github Stats</h3>
